@@ -5,8 +5,8 @@
 
 Summary:	Extension for interaction with DBUS busses
 Name:		php-%{modname}
-Version:	0.1.0
-Release:	%mkrel 2
+Version:	0.1.1
+Release:	%mkrel 1
 Group:		Development/PHP
 License:	PHP
 URL:		http://pecl.php.net/package/DBus

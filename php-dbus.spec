@@ -9,7 +9,7 @@ Version:	0.1.1
 Release:	6
 Group:		Development/PHP
 License:	PHP
-URL:		http://pecl.php.net/package/DBus
+URL:		https://pecl.php.net/package/DBus
 Source0:	http://pecl.php.net/get/dbus-%{version}.tgz
 Source1:	B14_dbus.ini
 BuildRequires:	pkgconfig
